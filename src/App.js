@@ -68,7 +68,7 @@ export default () => {
 
         {movieList.length <= 0 &&
           <div className="loading">
-            <img src="https://artdogesso.000webhostapp.com/img/loading04.gif" alt="Carregando"/>
+            <img src="https://www.filmelier.com/pt/br/news/wp-content/uploads/2020/03/Netflix_LoadTime-scaled.gif" alt="Carregando"/>
           </div>
         }
       </div>
